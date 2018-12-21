@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <id>com.github.meowtec.Imagine</id>
+  <metadata_license>CC0</metadata_license>
+  <project_license>MIT</project_license>
+  <name>Imagine</name>
+  <summary>A desktop app for image compression</summary>
+  <description>
+    <p>Imagine is a desktop app for compression of PNG, JPEG and WebP, with a modern and friendly UI.</p>
+    <p>Some highlights of Imagine:</p>
+    <ul>
+      <li>Multi format (JPEG, PNG, WebP)</li>
+      <li>Format conversion</li>
+      <li>Cross platform</li>
+      <li>GUI</li>
+      <li>Batch optimization</li>
+      <li>i18n (English, 简体中文, Nederlands, Español, Français, Italiano, Deutsch)</li>
+    </ul>
+  </description>
+  <developer_name>Menci</developer_name>
+  <url type="bugtracker">https://github.com/meowtec/Imagine/issues</url>
+  <url type="homepage">https://github.com/meowtec/Imagine</url>
+  <screenshots>
+    <screenshot type="default">
+      <caption>Main window</caption>
+      <image>https://camo.githubusercontent.com/e950133b6751e1665ebc5eef0f580a2303fdbac4/687474703a2f2f6d656f777465632e71696e6975646e2e636f6d2f496d6167696e652e6a7067</image>
+    </screenshot>
+  </screenshots>
+  <provides>
+    <binary>Imagine</binary>
+  </provides>
+  <launchable type="desktop-id">com.github.meowtec.Imagine.desktop</launchable>
+  <content_rating type="oars-1.0">
+    <content_attribute id="social-info">mild</content_attribute>
+  </content_rating>
+  <releases>
+    <release version="0.5.0" date="2018-07-02"/>
+  </releases>
+</component>
