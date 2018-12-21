@@ -22,8 +22,12 @@
   <url type="homepage">https://github.com/meowtec/Imagine</url>
   <screenshots>
     <screenshot type="default">
-      <caption>Main window</caption>
-      <image>https://camo.githubusercontent.com/e950133b6751e1665ebc5eef0f580a2303fdbac4/687474703a2f2f6d656f777465632e71696e6975646e2e636f6d2f496d6167696e652e6a7067</image>
+      <caption>Task view</caption>
+      <image>https://raw.githubusercontent.com/scx/imagine-flatpak/22f397b93ba7f6afb17a7df8b835e59cc01ebc96/imagine-screenshot-1.png</image>
+    </screenshot>
+    <screenshot type="default">
+      <caption>Image view</caption>
+      <image>https://raw.githubusercontent.com/scx/imagine-flatpak/22f397b93ba7f6afb17a7df8b835e59cc01ebc96/imagine-screenshot-2.png</image>
     </screenshot>
   </screenshots>
   <provides>
